@@ -2,6 +2,7 @@
 
 A Python-based GUI application for generating synchronized videos of calcium imaging data with fluorescence traces. This tool overlays time-series trace data onto video frames, making it easy to visualize and present calcium imaging results with ROI positions and activity plots.
 
+![Application Screenshot](images/Ca_image_vid_gen.PNG)
 ## Features
 
 ### Video Generation
